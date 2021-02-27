@@ -1,0 +1,14 @@
+{
+  "name": "@mbostock/voronoi-particles",
+  "main": "6dfa566c598e77dd@112.js",
+  "version": "112.0.0",
+  "homepage": "https://observablehq.com/@mbostock/voronoi-particles",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "https://observablehq.com/@mbostock"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
